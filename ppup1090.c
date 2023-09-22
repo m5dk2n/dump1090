@@ -29,6 +29,8 @@
 //
 #include "coaa.h"
 #include "ppup1090.h"
+extern struct modes Modes;
+
 //
 // ============================= Utility functions ==========================
 //

@@ -29,6 +29,8 @@
 //
 
 #include "dump1090.h"
+extern struct modes Modes;
+extern struct stDF tDF;
 //
 // ============================= Networking =============================
 //
